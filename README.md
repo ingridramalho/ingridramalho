@@ -1,8 +1,8 @@
-## Hi there 👋
+##Hi 👋, I'm Ingrid
 
 <!--
 **ingridramalho/ingridramalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Software Engineering Student | IT Technician Graduate 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
