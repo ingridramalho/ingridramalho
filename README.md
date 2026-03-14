@@ -1,16 +1,15 @@
-##Hi 👋, I'm Ingrid
+                                                           Hi 👋, I'm Ingrid
 
-<!--
-**ingridramalho/ingridramalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Software Engineering Student | IT Technician Graduate 
-Here are some ideas to get you started:
+                                         Software Engineering Student | IT Technician Graduate 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning backend development with Python and studying cybersecurity.
+- 🌟 I completed my TCC. https://tcc-agrotech-solar.vercel.app/
+- 🪐 I created a project for EDUTEC. https://astroview.vercel.app/
+- 📄 Know about my experiences https://www.linkedin.com/in/ingrid-ramalho-337b87335/
+- 📫 How to reach me: ingridrsantosdejesus@gmail.com
+
+Conect with me:
+
+Languages and Tools:
+
 -->
